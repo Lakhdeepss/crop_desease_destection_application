@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Ammonium Nitrate",
+            
+            "desc": "Ammonium nitrate was the first solid nitrogen (N) fertilizer produced on a large scale, but its popularity has declined in recent years. It’s been a common N source because it contains both nitrate and ammonium, and it has a relatively high nutrient content.",
+            "price": 300,
+            "image": "https://res.cloudinary.com/dyovqqcak/image/upload/v1694696115/Ferilizer/squ8qp37oskodcmjl0vg.jpg"
+        },
+        {
+            "id": 2,
+            "name": "DAP",
+            "desc": "Increases flower number and fruit setting, thereby improves the crop quality and yield Well suited for calcareous and alkaline soils",
+            "price": 200,
+            "image": "https://res.cloudinary.com/dyovqqcak/image/upload/v1694696010/Ferilizer/pgwy5h1f6jgkv5akaaqp.jpg"
+        },
+        {
+            "id": 3,
+            "name": "MOP",
+            "desc": "MOP, or potassium chloride, is the most commonly employed potash fertilizer and can be used to farm a variety of foods, particularly chloride-loving vegetables such as sugar beets, corn, celery and Swiss chard. It can be beneficial for soil that is low in chloride, building the plants' disease resistance.",
+            "price": 250,
+            "image": "https://res.cloudinary.com/dyovqqcak/image/upload/v1694696043/Ferilizer/rehktjw0a37yyiarwpuz.jpg"
+        },
+        {
+            "id": 4,
+            "name": "NPK",
+            "desc": "The letters \"NPK\" on a fertilizer label stand for nitrogen, phosphorus, and potassium, the three primary nutrients plants need to grow. The numbers on the label indicate the ratio (by percentage) of nitrogen, phosphorus, and potassium in the fertilizer container.",
+            "price": 400,
+            "image": "https://res.cloudinary.com/dyovqqcak/image/upload/v1694696069/Ferilizer/wsyitypu4vboytmulbvl.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Urea",
+            "desc": "The main function of Urea fertilizer is to provide the plants with nitrogen to promote green leafy growth and make the plants look lush. Urea also aids the photosynthesis process of plants. Since urea fertilizer can provide only nitrogen and not phosphorus or potassium, it's primarily used for bloom growth",
+            "price": 110,
+            "image": "https://res.cloudinary.com/dyovqqcak/image/upload/v1694695940/Ferilizer/q5qpfjgrr9wubgjgtzgu.jpg"
+        },
+        {
+            "id": 6,
+            "name": "SSP",
+            "desc": "SSP is preferred for oilseed crops as sulphur is integral part of many edible oils. Since acidic soil are poor in calcium so SSP is useful in acidic soils as calcium helps increasing yields. Increasing sulphur deficiency almost all over India is making SSP still more popular.",
+            "price": 500,
+            "image": "https://res.cloudinary.com/dyovqqcak/image/upload/v1694696089/Ferilizer/yq1x8e2rpfhdeh2ac3ki.png"
+        }
+    ]
+}

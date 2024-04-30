@@ -1,0 +1,33 @@
+{
+    "crops": [
+        {
+            "name": "wheat crop desease",
+            "desc": "Fungus remains in high hills during summers in infected plant debris as dormant mycelium and asci. Primary spread is by the asciospores and secondary spread through airborne conidia.",
+            "image": "https://www.google.com/search?sca_esv=563100770&sxsrf=AB5stBgU1vp38rYeZF9oxJmuyxSVAKHsRA:1694014904762&q=wheat+crop+disease&tbm=isch&source=lnms&sa=X&ved=2ahUKEwir0pGlqZaBAxV5umMGHRVmBk0Q0pQJegQIDhAB&biw=1536&bih=750&dpr=1.25#imgrc=FQXhbE3rsl8K3M"
+        },
+        {
+            "name": "rice crop desease",
+            "desc": "Symptoms For Bacterial Leaf Blight Of Rice: Water-soaked spots appear on leaves which gradually coalesce to form blotches and white streaks form from the tip of the leaf to the base. Wilting and yellowing of leaves. Usually known as 'Seedling wilt' or 'Kresek'",
+            "color": "#00ac51",
+            "image": "https://www.google.com/search?q=rice+crop+disease&tbm=isch&ved=2ahUKEwjts_rCqZaBAxW_z6ACHWOzBNEQ2-cCegQIABAA&oq=rice+crop+disease&gs_lcp=CgNpbWcQAzIHCAAQExCABDIHCAAQExCABDoECCMQJzoICAAQCBAeEBNQv7cDWMG6A2CpvANoAnAAeACAAf4BiAGUCpIBBTAuMS41mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=9534ZK3cEb-fg8UP4-aSiA0&bih=750&biw=1536#imgrc=oKWSfg_R8U3NRM"
+        },
+        {
+            "name": "sunflower crop desease",
+            "desc": "Powdery mildew, Erysiphe cichoracearum. White powdery spots or patches develop on leaves and occasionally on stems. Symptoms often first appear on the upper surfaces of the leaves and are usually most pronounced during hot Heavily infected leaves turn brown and shrivel'",        
+            "color": "#e0bfae",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcropwatch.unl.edu%2Fplantdisease%2Fsunflower&psig=AOvVaw2iD4Bqe--rq6_KQ4dtNeyf&ust=1694101736151000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDkqvWqloEDFQAAAAAdAAAAABAE"
+        },
+        {
+            "name": "potato crop desease ",
+            "desc": "Symptoms For Bacterial Leaf Blight Of Rice: Water-soaked spots appear on leaves which gradually coalesce to form blotches and white streaks form from the tip of the leaf to the base. Wilting and yellowing of leaves. Usually known as 'Seedling wilt' or 'Kresek'",
+            "color": "#544ee4",
+            "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fplantura.garden%2Fuk%2Fwp-content%2Fuploads%2Fsites%2F2%2F2021%2F10%2Fpotato-diseases.jpg&tbnid=AWJJgXLfF4UsuM&vet=12ahUKEwiesaG1q5aBAxU15DgGHdpiBzoQMygAegQIARBM..i&imgrefurl=https%3A%2F%2Fplantura.garden%2Fuk%2Fvegetables%2Fpotatoes%2Fpotato-diseases&docid=_J51pZOQj5OUOM&w=1500&h=1000&q=potato%20crop%20disease&ved=2ahUKEwiesaG1q5aBAxU15DgGHdpiBzoQMygAegQIARBM"
+        },
+        {
+            "name": "pumpkin crop desease ",
+            "desc": "Powdery mildew, Erysiphe cichoracearum. White powdery spots or patches develop on leaves and occasionally on stems. Symptoms often first appear on the upper surfaces of the leaves and are usually most pronounced during hot Heavily infected leaves turn brown and shrivel'",
+            "color": "#e3e4e9",
+            "image": "https://www.google.com/search?q=pumpkin+crop+disease&tbm=isch&ved=2ahUKEwiesaG1q5aBAxU15DgGHdpiBzoQ2-cCegQIABAA&oq=pumpkin+crop+disease&gs_lcp=CgNpbWcQAzoECCMQJzoHCAAQExCABDoICAAQCBAHEB5QxBdYgSVgpSdoAHAAeACAAe4CiAH3DpIBBzAuNC4zLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=85_4ZN7rGrXI4-EP2sWd0AM&bih=750&biw=1536#imgrc=Az6sx2gv0ecXMM"
+        }
+    ]
+}
